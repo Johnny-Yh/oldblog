@@ -37,4 +37,30 @@
     
   </entry>
   
+  <entry>
+    <title>在Linux下修改Swap分区大小</title>
+    <link href="https://littleyang.pro/2020/03/18/%E5%9C%A8Linux%E4%B8%8B%E4%BF%AE%E6%94%B9Swap%E5%88%86%E5%8C%BA%E5%A4%A7%E5%B0%8F/"/>
+    <id>https://littleyang.pro/2020/03/18/%E5%9C%A8Linux%E4%B8%8B%E4%BF%AE%E6%94%B9Swap%E5%88%86%E5%8C%BA%E5%A4%A7%E5%B0%8F/</id>
+    <published>2020-03-18T03:46:55.000Z</published>
+    <updated>2021-01-15T08:54:55.376Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今天无意间看到主机的swap的大小只有131M，而且占用也快满了，想要修改swap分区大小，改为两倍系统物理内存的大小（1024M），以满足日常使用的需求。&lt;/p&gt;
+&lt;p&gt;swap分区：通常被称为交换分区，这是一块特殊的硬盘空间，即当实际内存不够用的时候，操作系统会从内存中</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://littleyang.pro/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://littleyang.pro/tags/Linux/"/>
+    
+  </entry>
+  
 </feed>
