@@ -63,4 +63,25 @@
     
   </entry>
   
+  <entry>
+    <title>Typecho博客</title>
+    <link href="https://littleyang.pro/2020/03/17/Typecho%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://littleyang.pro/2020/03/17/Typecho%E5%8D%9A%E5%AE%A2/</id>
+    <published>2020-03-17T11:50:37.000Z</published>
+    <updated>2021-01-15T11:02:32.547Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;前一阵子腾讯云的数字域名有优惠，于是剁手了一个数字域名。有了域名，突然想起来还有个虚拟主机闲置着，就想随手搭建一个博客（虽然我很少写东西hhh）。&lt;br&gt;博客系统最终选择的是typecho，非常轻量，简洁，一顿操作猛如虎之后，博客也顺利搭建成功。&lt;br&gt;以后我会在这里更新我</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
 </feed>
