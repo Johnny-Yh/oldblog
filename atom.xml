@@ -6,7 +6,7 @@
   <link href="https://littleyang.pro/atom.xml" rel="self"/>
   
   <link href="https://littleyang.pro/"/>
-  <updated>2021-01-18T05:33:22.805Z</updated>
+  <updated>2021-01-21T09:02:03.917Z</updated>
   <id>https://littleyang.pro/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Debian10开启BBR加速</title>
+    <link href="https://littleyang.pro/2021/01/21/Debian10%E5%BC%80%E5%90%AFBBR%E5%8A%A0%E9%80%9F/"/>
+    <id>https://littleyang.pro/2021/01/21/Debian10%E5%BC%80%E5%90%AFBBR%E5%8A%A0%E9%80%9F/</id>
+    <published>2021-01-21T08:49:08.000Z</published>
+    <updated>2021-01-21T09:02:03.917Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/google/bbr&quot;&gt;BBR&lt;/a&gt;是谷歌的一个开源的解决网络拥塞算法的，需要Linux的内核版本大于4.9才能开启。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Linux" scheme="https://littleyang.pro/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://littleyang.pro/tags/Linux/"/>
+    
+  </entry>
   
   <entry>
     <title>考研初试复盘</title>
@@ -53,7 +72,7 @@
     <link href="https://littleyang.pro/2020/06/05/%E7%88%AC%E8%99%AB%E8%8E%B7%E5%8F%96%E4%BA%AC%E4%B8%9C%E6%89%8B%E6%9C%BA%E9%94%80%E5%94%AE%E6%95%B0%E6%8D%AE/"/>
     <id>https://littleyang.pro/2020/06/05/%E7%88%AC%E8%99%AB%E8%8E%B7%E5%8F%96%E4%BA%AC%E4%B8%9C%E6%89%8B%E6%9C%BA%E9%94%80%E5%94%AE%E6%95%B0%E6%8D%AE/</id>
     <published>2020-06-05T02:26:00.000Z</published>
-    <updated>2021-01-16T02:34:04.940Z</updated>
+    <updated>2021-01-21T09:04:52.571Z</updated>
     
     
     <summary type="html">&lt;p&gt;目前消费市场上的手机品牌多种多样，比较常见的有：苹果，三星，华为，小米，VIVO，OPPO，一加，魅族，努比亚，联想，锤子，诺基亚，索尼，中兴，华硕，黑鲨等，计划通过简单的Python代码爬取京东以“手机”为关键词的前100页商品（搜索上限就是100页）的商品信息，价格，商家，评价数（销量的另一种体现），和链接，并对数据进行清洗和处理，最后存储到MySQL数据库中。&lt;/p&gt;</summary>
@@ -70,7 +89,7 @@
     <link href="https://littleyang.pro/2020/03/31/%E7%BB%99%E5%8D%9A%E5%AE%A2%E5%8A%A0%E4%B8%8AHTTPS/"/>
     <id>https://littleyang.pro/2020/03/31/%E7%BB%99%E5%8D%9A%E5%AE%A2%E5%8A%A0%E4%B8%8AHTTPS/</id>
     <published>2020-03-31T06:39:17.000Z</published>
-    <updated>2021-01-15T15:01:31.744Z</updated>
+    <updated>2021-01-21T09:03:48.092Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;Trojan可以让自己的博客加上&lt;strong&gt;Https&lt;/strong&gt;访问。&lt;/p&gt;</summary>
