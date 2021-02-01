@@ -6,7 +6,7 @@
   <link href="https://littleyang.pro/atom.xml" rel="self"/>
   
   <link href="https://littleyang.pro/"/>
-  <updated>2021-01-21T09:02:03.917Z</updated>
+  <updated>2021-02-01T18:23:06.015Z</updated>
   <id>https://littleyang.pro/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>镁光C9BJZ内存超频</title>
+    <link href="https://littleyang.pro/2021/02/02/%E9%95%81%E5%85%89C9BJZ%E5%86%85%E5%AD%98%E8%B6%85%E9%A2%91/"/>
+    <id>https://littleyang.pro/2021/02/02/%E9%95%81%E5%85%89C9BJZ%E5%86%85%E5%AD%98%E8%B6%85%E9%A2%91/</id>
+    <published>2021-02-01T18:22:47.000Z</published>
+    <updated>2021-02-01T18:23:06.015Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;前一阵子美亚的镁光C9BJZ颗粒内存有折扣，买了两套，一套自己升级用，一套挂在闲鱼出掉了。算下了32G（16G*2）的内存只花了不到500人民币，算是十分实惠的。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="内存" scheme="https://littleyang.pro/tags/%E5%86%85%E5%AD%98/"/>
+    
+  </entry>
   
   <entry>
     <title>Debian10开启BBR加速</title>
@@ -40,7 +57,7 @@
     <link href="https://littleyang.pro/2021/01/18/%E8%80%83%E7%A0%94%E5%88%9D%E8%AF%95%E5%A4%8D%E7%9B%98/"/>
     <id>https://littleyang.pro/2021/01/18/%E8%80%83%E7%A0%94%E5%88%9D%E8%AF%95%E5%A4%8D%E7%9B%98/</id>
     <published>2021-01-18T05:27:14.000Z</published>
-    <updated>2021-01-18T05:33:22.805Z</updated>
+    <updated>2021-02-01T18:24:34.067Z</updated>
     
     
     <summary type="html">&lt;p&gt;距离考研初试已经过去了整整一个星期了，好好休息了一个星期之后，大致看了一下答案，复盘一下初试的情况。&lt;/p&gt;</summary>
@@ -89,13 +106,15 @@
     <link href="https://littleyang.pro/2020/03/31/%E7%BB%99%E5%8D%9A%E5%AE%A2%E5%8A%A0%E4%B8%8AHTTPS/"/>
     <id>https://littleyang.pro/2020/03/31/%E7%BB%99%E5%8D%9A%E5%AE%A2%E5%8A%A0%E4%B8%8AHTTPS/</id>
     <published>2020-03-31T06:39:17.000Z</published>
-    <updated>2021-01-21T09:03:48.092Z</updated>
+    <updated>2021-02-01T18:25:16.710Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;Trojan可以让自己的博客加上&lt;strong&gt;Https&lt;/strong&gt;访问。&lt;/p&gt;</summary>
     
     
     
+    
+    <category term="Https" scheme="https://littleyang.pro/tags/Https/"/>
     
   </entry>
   
@@ -104,7 +123,7 @@
     <link href="https://littleyang.pro/2020/03/18/%E5%9C%A8Linux%E4%B8%8B%E4%BF%AE%E6%94%B9Swap%E5%88%86%E5%8C%BA%E5%A4%A7%E5%B0%8F/"/>
     <id>https://littleyang.pro/2020/03/18/%E5%9C%A8Linux%E4%B8%8B%E4%BF%AE%E6%94%B9Swap%E5%88%86%E5%8C%BA%E5%A4%A7%E5%B0%8F/</id>
     <published>2020-03-18T03:46:55.000Z</published>
-    <updated>2021-01-15T15:00:15.679Z</updated>
+    <updated>2021-02-01T18:25:25.488Z</updated>
     
     
     <summary type="html">&lt;p&gt;今天无意间看到主机的swap的大小只有131M，而且占用也快满了，想要修改swap分区大小，改为两倍系统物理内存的大小（1024M），以满足日常使用的需求。&lt;/p&gt;</summary>
