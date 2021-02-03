@@ -89,10 +89,10 @@
     <link href="https://littleyang.pro/2020/06/05/%E7%88%AC%E8%99%AB%E8%8E%B7%E5%8F%96%E4%BA%AC%E4%B8%9C%E6%89%8B%E6%9C%BA%E9%94%80%E5%94%AE%E6%95%B0%E6%8D%AE/"/>
     <id>https://littleyang.pro/2020/06/05/%E7%88%AC%E8%99%AB%E8%8E%B7%E5%8F%96%E4%BA%AC%E4%B8%9C%E6%89%8B%E6%9C%BA%E9%94%80%E5%94%AE%E6%95%B0%E6%8D%AE/</id>
     <published>2020-06-05T02:26:00.000Z</published>
-    <updated>2021-01-21T09:04:52.571Z</updated>
+    <updated>2021-02-03T10:22:27.016Z</updated>
     
     
-    <summary type="html">&lt;p&gt;目前消费市场上的手机品牌多种多样，比较常见的有：苹果，三星，华为，小米，VIVO，OPPO，一加，魅族，努比亚，联想，锤子，诺基亚，索尼，中兴，华硕，黑鲨等，计划通过简单的Python代码爬取京东以“手机”为关键词的前100页商品（搜索上限就是100页）的商品信息，价格，商家，评价数（销量的另一种体现），和链接，并对数据进行清洗和处理，最后存储到MySQL数据库中。&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;目前消费市场上的手机品牌多种多样</summary>
     
     
     
