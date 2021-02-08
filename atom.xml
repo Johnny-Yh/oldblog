@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Johnny&#39;s Blog</title>
-  <icon>https://littleyang.pro/icon.png</icon>
+  <icon>https://19990914.xyz/icon.png</icon>
   
-  <link href="https://littleyang.pro/atom.xml" rel="self"/>
+  <link href="https://19990914.xyz/atom.xml" rel="self"/>
   
-  <link href="https://littleyang.pro/"/>
+  <link href="https://19990914.xyz/"/>
   <updated>2021-02-03T10:21:54.552Z</updated>
-  <id>https://littleyang.pro/</id>
+  <id>https://19990914.xyz/</id>
   
   <author>
     <name>Johnny</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>镁光C9BJZ内存超频</title>
-    <link href="https://littleyang.pro/2021/02/02/%E9%95%81%E5%85%89C9BJZ%E5%86%85%E5%AD%98%E8%B6%85%E9%A2%91/"/>
-    <id>https://littleyang.pro/2021/02/02/%E9%95%81%E5%85%89C9BJZ%E5%86%85%E5%AD%98%E8%B6%85%E9%A2%91/</id>
+    <link href="https://19990914.xyz/2021/02/02/%E9%95%81%E5%85%89C9BJZ%E5%86%85%E5%AD%98%E8%B6%85%E9%A2%91/"/>
+    <id>https://19990914.xyz/2021/02/02/%E9%95%81%E5%85%89C9BJZ%E5%86%85%E5%AD%98%E8%B6%85%E9%A2%91/</id>
     <published>2021-02-01T18:22:47.000Z</published>
     <updated>2021-02-03T10:21:54.552Z</updated>
     
@@ -29,14 +29,14 @@
     
     
     
-    <category term="内存" scheme="https://littleyang.pro/tags/%E5%86%85%E5%AD%98/"/>
+    <category term="内存" scheme="https://19990914.xyz/tags/%E5%86%85%E5%AD%98/"/>
     
   </entry>
   
   <entry>
     <title>Debian10开启BBR加速</title>
-    <link href="https://littleyang.pro/2021/01/21/Debian10%E5%BC%80%E5%90%AFBBR%E5%8A%A0%E9%80%9F/"/>
-    <id>https://littleyang.pro/2021/01/21/Debian10%E5%BC%80%E5%90%AFBBR%E5%8A%A0%E9%80%9F/</id>
+    <link href="https://19990914.xyz/2021/01/21/Debian10%E5%BC%80%E5%90%AFBBR%E5%8A%A0%E9%80%9F/"/>
+    <id>https://19990914.xyz/2021/01/21/Debian10%E5%BC%80%E5%90%AFBBR%E5%8A%A0%E9%80%9F/</id>
     <published>2021-01-21T08:49:08.000Z</published>
     <updated>2021-01-21T09:02:03.917Z</updated>
     
@@ -45,17 +45,17 @@
     
     
     
-    <category term="Linux" scheme="https://littleyang.pro/categories/Linux/"/>
+    <category term="Linux" scheme="https://19990914.xyz/categories/Linux/"/>
     
     
-    <category term="Linux" scheme="https://littleyang.pro/tags/Linux/"/>
+    <category term="Linux" scheme="https://19990914.xyz/tags/Linux/"/>
     
   </entry>
   
   <entry>
     <title>考研初试复盘</title>
-    <link href="https://littleyang.pro/2021/01/18/%E8%80%83%E7%A0%94%E5%88%9D%E8%AF%95%E5%A4%8D%E7%9B%98/"/>
-    <id>https://littleyang.pro/2021/01/18/%E8%80%83%E7%A0%94%E5%88%9D%E8%AF%95%E5%A4%8D%E7%9B%98/</id>
+    <link href="https://19990914.xyz/2021/01/18/%E8%80%83%E7%A0%94%E5%88%9D%E8%AF%95%E5%A4%8D%E7%9B%98/"/>
+    <id>https://19990914.xyz/2021/01/18/%E8%80%83%E7%A0%94%E5%88%9D%E8%AF%95%E5%A4%8D%E7%9B%98/</id>
     <published>2021-01-18T05:27:14.000Z</published>
     <updated>2021-02-01T18:24:34.067Z</updated>
     
@@ -64,15 +64,15 @@
     
     
     
-    <category term="考研" scheme="https://littleyang.pro/categories/%E8%80%83%E7%A0%94/"/>
+    <category term="考研" scheme="https://19990914.xyz/categories/%E8%80%83%E7%A0%94/"/>
     
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://littleyang.pro/2021/01/12/hello-world/"/>
-    <id>https://littleyang.pro/2021/01/12/hello-world/</id>
+    <link href="https://19990914.xyz/2021/01/12/hello-world/"/>
+    <id>https://19990914.xyz/2021/01/12/hello-world/</id>
     <published>2021-01-12T04:02:26.928Z</published>
     <updated>2021-01-15T11:56:25.535Z</updated>
     
@@ -86,8 +86,8 @@
   
   <entry>
     <title>爬虫获取京东手机销售数据</title>
-    <link href="https://littleyang.pro/2020/06/05/%E7%88%AC%E8%99%AB%E8%8E%B7%E5%8F%96%E4%BA%AC%E4%B8%9C%E6%89%8B%E6%9C%BA%E9%94%80%E5%94%AE%E6%95%B0%E6%8D%AE/"/>
-    <id>https://littleyang.pro/2020/06/05/%E7%88%AC%E8%99%AB%E8%8E%B7%E5%8F%96%E4%BA%AC%E4%B8%9C%E6%89%8B%E6%9C%BA%E9%94%80%E5%94%AE%E6%95%B0%E6%8D%AE/</id>
+    <link href="https://19990914.xyz/2020/06/05/%E7%88%AC%E8%99%AB%E8%8E%B7%E5%8F%96%E4%BA%AC%E4%B8%9C%E6%89%8B%E6%9C%BA%E9%94%80%E5%94%AE%E6%95%B0%E6%8D%AE/"/>
+    <id>https://19990914.xyz/2020/06/05/%E7%88%AC%E8%99%AB%E8%8E%B7%E5%8F%96%E4%BA%AC%E4%B8%9C%E6%89%8B%E6%9C%BA%E9%94%80%E5%94%AE%E6%95%B0%E6%8D%AE/</id>
     <published>2020-06-05T02:26:00.000Z</published>
     <updated>2021-02-03T10:22:27.016Z</updated>
     
@@ -97,14 +97,14 @@
     
     
     
-    <category term="爬虫" scheme="https://littleyang.pro/tags/%E7%88%AC%E8%99%AB/"/>
+    <category term="爬虫" scheme="https://19990914.xyz/tags/%E7%88%AC%E8%99%AB/"/>
     
   </entry>
   
   <entry>
     <title>给博客加上HTTPS</title>
-    <link href="https://littleyang.pro/2020/03/31/%E7%BB%99%E5%8D%9A%E5%AE%A2%E5%8A%A0%E4%B8%8AHTTPS/"/>
-    <id>https://littleyang.pro/2020/03/31/%E7%BB%99%E5%8D%9A%E5%AE%A2%E5%8A%A0%E4%B8%8AHTTPS/</id>
+    <link href="https://19990914.xyz/2020/03/31/%E7%BB%99%E5%8D%9A%E5%AE%A2%E5%8A%A0%E4%B8%8AHTTPS/"/>
+    <id>https://19990914.xyz/2020/03/31/%E7%BB%99%E5%8D%9A%E5%AE%A2%E5%8A%A0%E4%B8%8AHTTPS/</id>
     <published>2020-03-31T06:39:17.000Z</published>
     <updated>2021-02-01T18:25:16.710Z</updated>
     
@@ -114,14 +114,14 @@
     
     
     
-    <category term="Https" scheme="https://littleyang.pro/tags/Https/"/>
+    <category term="Https" scheme="https://19990914.xyz/tags/Https/"/>
     
   </entry>
   
   <entry>
     <title>在Linux下修改Swap分区大小</title>
-    <link href="https://littleyang.pro/2020/03/18/%E5%9C%A8Linux%E4%B8%8B%E4%BF%AE%E6%94%B9Swap%E5%88%86%E5%8C%BA%E5%A4%A7%E5%B0%8F/"/>
-    <id>https://littleyang.pro/2020/03/18/%E5%9C%A8Linux%E4%B8%8B%E4%BF%AE%E6%94%B9Swap%E5%88%86%E5%8C%BA%E5%A4%A7%E5%B0%8F/</id>
+    <link href="https://19990914.xyz/2020/03/18/%E5%9C%A8Linux%E4%B8%8B%E4%BF%AE%E6%94%B9Swap%E5%88%86%E5%8C%BA%E5%A4%A7%E5%B0%8F/"/>
+    <id>https://19990914.xyz/2020/03/18/%E5%9C%A8Linux%E4%B8%8B%E4%BF%AE%E6%94%B9Swap%E5%88%86%E5%8C%BA%E5%A4%A7%E5%B0%8F/</id>
     <published>2020-03-18T03:46:55.000Z</published>
     <updated>2021-02-01T18:25:25.488Z</updated>
     
@@ -130,17 +130,17 @@
     
     
     
-    <category term="Linux" scheme="https://littleyang.pro/categories/Linux/"/>
+    <category term="Linux" scheme="https://19990914.xyz/categories/Linux/"/>
     
     
-    <category term="Linux" scheme="https://littleyang.pro/tags/Linux/"/>
+    <category term="Linux" scheme="https://19990914.xyz/tags/Linux/"/>
     
   </entry>
   
   <entry>
     <title>Typecho博客</title>
-    <link href="https://littleyang.pro/2020/03/17/Typecho%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://littleyang.pro/2020/03/17/Typecho%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://19990914.xyz/2020/03/17/Typecho%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://19990914.xyz/2020/03/17/Typecho%E5%8D%9A%E5%AE%A2/</id>
     <published>2020-03-17T11:50:37.000Z</published>
     <updated>2021-01-15T11:02:32.547Z</updated>
     
