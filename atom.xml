@@ -6,7 +6,7 @@
   <link href="https://19990914.xyz/atom.xml" rel="self"/>
   
   <link href="https://19990914.xyz/"/>
-  <updated>2021-02-19T16:20:17.169Z</updated>
+  <updated>2021-02-19T16:21:12.035Z</updated>
   <id>https://19990914.xyz/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>在Openwrt下使用Kms激活</title>
-    <link href="https://19990914.xyz/2021/02/20/post/"/>
-    <id>https://19990914.xyz/2021/02/20/post/</id>
+    <link href="https://19990914.xyz/2021/02/20/%E5%9C%A8Openwrt%E4%B8%8B%E4%BD%BF%E7%94%A8Kms%E6%BF%80%E6%B4%BB/"/>
+    <id>https://19990914.xyz/2021/02/20/%E5%9C%A8Openwrt%E4%B8%8B%E4%BD%BF%E7%94%A8Kms%E6%BF%80%E6%B4%BB/</id>
     <published>2021-02-19T16:19:24.000Z</published>
-    <updated>2021-02-19T16:20:17.169Z</updated>
+    <updated>2021-02-19T16:21:12.035Z</updated>
     
     
     <summary type="html">&lt;p&gt;自己使用的路由器是Openwrt系统的，最近重装了系统发现Windows和Office都变成了未激活状态，突然想起来路由器里自带Kms服务器可以激活，顺便将自己的操作记录下来，以后再重装就不需要去百度了。&lt;/p&gt;</summary>
