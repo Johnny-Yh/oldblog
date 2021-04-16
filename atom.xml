@@ -6,7 +6,7 @@
   <link href="https://19990914.xyz/atom.xml" rel="self"/>
   
   <link href="https://19990914.xyz/"/>
-  <updated>2021-04-08T16:26:08.347Z</updated>
+  <updated>2021-04-16T03:19:23.398Z</updated>
   <id>https://19990914.xyz/</id>
   
   <author>
@@ -17,11 +17,43 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>记录一次折腾的BIOS升级</title>
+    <link href="https://19990914.xyz/2021/04/16/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E6%8A%98%E8%85%BE%E7%9A%84BIOS%E5%8D%87%E7%BA%A7/"/>
+    <id>https://19990914.xyz/2021/04/16/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E6%8A%98%E8%85%BE%E7%9A%84BIOS%E5%8D%87%E7%BA%A7/</id>
+    <published>2021-04-16T02:42:29.000Z</published>
+    <updated>2021-04-16T03:19:23.398Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;昨天看到自己的技嘉B550i的BIOS可以更新了，但是更新完却开不了机了…&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="BIOS" scheme="https://19990914.xyz/tags/BIOS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>考研上岸体悟</title>
+    <link href="https://19990914.xyz/2021/04/16/%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%E4%BD%93%E6%82%9F/"/>
+    <id>https://19990914.xyz/2021/04/16/%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%E4%BD%93%E6%82%9F/</id>
+    <published>2021-04-16T02:39:21.000Z</published>
+    <updated>2021-04-16T02:40:11.240Z</updated>
+    
+    
+    
+    
+    
+    <category term="考研" scheme="https://19990914.xyz/tags/%E8%80%83%E7%A0%94/"/>
+    
+  </entry>
+  
+  <entry>
     <title>考研复试复盘</title>
     <link href="https://19990914.xyz/2021/04/08/%E8%80%83%E7%A0%94%E5%A4%8D%E8%AF%95%E5%A4%8D%E7%9B%98/"/>
     <id>https://19990914.xyz/2021/04/08/%E8%80%83%E7%A0%94%E5%A4%8D%E8%AF%95%E5%A4%8D%E7%9B%98/</id>
     <published>2021-04-08T06:28:19.000Z</published>
-    <updated>2021-04-08T16:26:08.347Z</updated>
+    <updated>2021-04-16T02:52:04.048Z</updated>
     
     
     <summary type="html">&lt;p&gt;初试388，压线进入复试，最后拟录取。&lt;/p&gt;</summary>
