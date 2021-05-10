@@ -158,7 +158,7 @@ search:
     #shortname: ''
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
-donates:
+#donates:
     # "Afdian.net" donate button configurations
     #-
         #type: afdian
@@ -187,10 +187,10 @@ donates:
         # Currency code
         #currency_code: USD
     # Wechat donate button configurations
-    -
-        type: wechat
+    #-
+        #type: wechat
         # Wechat qrcode image URL
-        qrcode: '/img/wechatpay.jpg'
+        #qrcode: '/img/wechatpay.jpg'
 # Share plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share/
 #share:
