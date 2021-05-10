@@ -1,0 +1,2 @@
+# Blog
+Pure blog
