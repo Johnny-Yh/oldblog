@@ -1,5 +1,5 @@
 ---
-title: 记录一次折腾的BIOS升级
+title: 技嘉BIOS踩坑记录
 date: 2021-04-16 10:42:29
 tags: BIOS
 ---
