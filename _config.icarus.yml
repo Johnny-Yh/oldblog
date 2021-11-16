@@ -295,7 +295,7 @@ widgets:
         # Names and URLs of the sites
         links:
             Desmond's Blog: 'http://dmz121.top'
-            Ratton's Blog: 'http://ratton.top'
+            Ratton's Blog: 'https://juejin.cn/user/959193885187918/posts'
             #Hexo: 'https://hexo.io'
             #Bulma: 'https://bulma.io'
     # Google AdSense unit configurations
