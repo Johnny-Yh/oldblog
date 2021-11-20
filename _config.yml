@@ -78,5 +78,5 @@ feed:
 
 deploy:
   type: git
-  repo: git@gitee.com:Johnny-Yh/Blog.git
-  branch: master
+  repo: git@github.com:Johnny-Yh/Blog.git
+  branch: main
