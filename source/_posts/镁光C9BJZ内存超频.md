@@ -12,7 +12,7 @@ tags: 内存
 　　主板:Asus X470i
 　　显卡:Rx5700
 　　电源:SF450
-　　内存:Crucial 16G*2
+　　内存:Crucial C9BJZ 16G*2
 
 超频用到的相关软件：
 - [Ryzen Calculator](https://www.techpowerup.com/download/ryzen-dram-calculator/)
