@@ -1,5 +1,5 @@
 ---
-title: Leetcode刷题记录
+title: Leetcode刷题笔记
 date: 2021-11-09 00:39:11
 tags: 算法
 ---
