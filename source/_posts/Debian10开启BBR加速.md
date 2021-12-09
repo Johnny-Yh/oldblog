@@ -1,8 +1,8 @@
 ---
 title: Debian10开启BBR加速
 date: 2021-01-21 16:49:08
+categories: 技术向
 tags: Linux
-categories: Linux
 ---
 [BBR](https://github.com/google/bbr)是谷歌的一个开源的解决网络拥塞算法的，需要Linux的内核版本大于4.9才能开启。
 <!--more-->

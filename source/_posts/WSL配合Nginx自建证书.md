@@ -1,7 +1,8 @@
 ---
 title: WSL配合Nginx自建证书
 date: 2021-12-09 19:00:56
-tags:
+categories: 技术向
+tags: Https
 ---
 在学校的信息安全实践课上，第一个实验就是需要自建CA证书搭建HTTPS服务器，为了方便，我使用[WSL](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux)(Windows Subsystem for Linux)配合Nginx和OpenSSL来自建CA证书。
 <!--more-->

@@ -1,7 +1,7 @@
 ---
 title: 在Linux下修改Swap分区大小
 date: 2020-03-18 11:46:55
-categories: Linux
+categories: 技术向
 tags: Linux
 ---
 今天无意间看到主机的swap的大小只有131M，而且占用也快满了，想要修改swap分区大小，改为两倍系统物理内存的大小（1024M），以满足日常使用的需求。
