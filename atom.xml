@@ -6,7 +6,7 @@
   <link href="https://19990914.xyz/atom.xml" rel="self"/>
   
   <link href="https://19990914.xyz/"/>
-  <updated>2021-12-09T11:02:05.243Z</updated>
+  <updated>2021-12-09T11:07:45.654Z</updated>
   <id>https://19990914.xyz/</id>
   
   <author>
@@ -21,13 +21,17 @@
     <link href="https://19990914.xyz/2021/12/09/WSL%E9%85%8D%E5%90%88Nginx%E8%87%AA%E5%BB%BA%E8%AF%81%E4%B9%A6/"/>
     <id>https://19990914.xyz/2021/12/09/WSL%E9%85%8D%E5%90%88Nginx%E8%87%AA%E5%BB%BA%E8%AF%81%E4%B9%A6/</id>
     <published>2021-12-09T11:00:56.000Z</published>
-    <updated>2021-12-09T11:02:05.243Z</updated>
+    <updated>2021-12-09T11:07:45.654Z</updated>
     
     
     <summary type="html">&lt;p&gt;在学校的信息安全实践课上，第一个实验就是需要自建CA证书搭建HTTPS服务器，为了方便，我使用&lt;a href=&quot;https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux&quot;&gt;WSL&lt;/a&gt;(Windows Subsystem for Linux)配合Nginx和OpenSSL来自建CA证书。&lt;/p&gt;</summary>
     
     
     
+    <category term="技术向" scheme="https://19990914.xyz/categories/%E6%8A%80%E6%9C%AF%E5%90%91/"/>
+    
+    
+    <category term="Https" scheme="https://19990914.xyz/tags/Https/"/>
     
   </entry>
   
@@ -36,7 +40,7 @@
     <link href="https://19990914.xyz/2021/11/24/%E8%A5%BF%E5%AE%89%E6%B8%B8%E8%AE%B0/"/>
     <id>https://19990914.xyz/2021/11/24/%E8%A5%BF%E5%AE%89%E6%B8%B8%E8%AE%B0/</id>
     <published>2021-11-24T14:55:38.000Z</published>
-    <updated>2021-11-24T14:55:55.759Z</updated>
+    <updated>2021-12-09T11:06:16.048Z</updated>
     
     
       
@@ -49,6 +53,8 @@
       
     
     
+    
+    <category term="旅行" scheme="https://19990914.xyz/categories/%E6%97%85%E8%A1%8C/"/>
     
     
   </entry>
@@ -109,7 +115,7 @@
     <link href="https://19990914.xyz/2021/04/16/%E6%8A%80%E5%98%89BIOS%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95/"/>
     <id>https://19990914.xyz/2021/04/16/%E6%8A%80%E5%98%89BIOS%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95/</id>
     <published>2021-04-16T02:42:29.000Z</published>
-    <updated>2021-11-20T17:17:20.359Z</updated>
+    <updated>2021-12-09T11:05:55.461Z</updated>
     
     
     <summary type="html">&lt;p&gt;昨天看到自己的技嘉B550i的BIOS可以更新了，但是更新完却开不了机了…&lt;/p&gt;</summary>
@@ -160,7 +166,7 @@
     <link href="https://19990914.xyz/2021/02/02/%E9%95%81%E5%85%89C9BJZ%E5%86%85%E5%AD%98%E8%B6%85%E9%A2%91/"/>
     <id>https://19990914.xyz/2021/02/02/%E9%95%81%E5%85%89C9BJZ%E5%86%85%E5%AD%98%E8%B6%85%E9%A2%91/</id>
     <published>2021-02-01T18:22:47.000Z</published>
-    <updated>2021-11-20T17:47:23.433Z</updated>
+    <updated>2021-12-09T11:05:52.738Z</updated>
     
     
     <summary type="html">&lt;p&gt;前一阵子美亚的镁光C9BJZ颗粒内存有折扣，买了两套，一套自己升级用，一套挂在闲鱼出掉了。&lt;/p&gt;</summary>
@@ -177,14 +183,14 @@
     <link href="https://19990914.xyz/2021/01/21/Debian10%E5%BC%80%E5%90%AFBBR%E5%8A%A0%E9%80%9F/"/>
     <id>https://19990914.xyz/2021/01/21/Debian10%E5%BC%80%E5%90%AFBBR%E5%8A%A0%E9%80%9F/</id>
     <published>2021-01-21T08:49:08.000Z</published>
-    <updated>2021-11-20T17:17:20.357Z</updated>
+    <updated>2021-12-09T11:06:32.461Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/google/bbr&quot;&gt;BBR&lt;/a&gt;是谷歌的一个开源的解决网络拥塞算法的，需要Linux的内核版本大于4.9才能开启。&lt;/p&gt;</summary>
     
     
     
-    <category term="Linux" scheme="https://19990914.xyz/categories/Linux/"/>
+    <category term="技术向" scheme="https://19990914.xyz/categories/%E6%8A%80%E6%9C%AF%E5%90%91/"/>
     
     
     <category term="Linux" scheme="https://19990914.xyz/tags/Linux/"/>
@@ -213,12 +219,14 @@
     <link href="https://19990914.xyz/2020/06/05/%E7%88%AC%E8%99%AB%E8%8E%B7%E5%8F%96%E4%BA%AC%E4%B8%9C%E6%89%8B%E6%9C%BA%E9%94%80%E5%94%AE%E6%95%B0%E6%8D%AE/"/>
     <id>https://19990914.xyz/2020/06/05/%E7%88%AC%E8%99%AB%E8%8E%B7%E5%8F%96%E4%BA%AC%E4%B8%9C%E6%89%8B%E6%9C%BA%E9%94%80%E5%94%AE%E6%95%B0%E6%8D%AE/</id>
     <published>2020-06-05T02:26:00.000Z</published>
-    <updated>2021-11-20T17:17:20.359Z</updated>
+    <updated>2021-12-09T11:06:02.566Z</updated>
     
     
     <summary type="html">&lt;p&gt;目前消费市场上的手机品牌多种多样</summary>
     
     
+    
+    <category term="技术向" scheme="https://19990914.xyz/categories/%E6%8A%80%E6%9C%AF%E5%90%91/"/>
     
     
     <category term="爬虫" scheme="https://19990914.xyz/tags/%E7%88%AC%E8%99%AB/"/>
@@ -230,12 +238,14 @@
     <link href="https://19990914.xyz/2020/03/31/%E7%BB%99%E5%8D%9A%E5%AE%A2%E5%8A%A0%E4%B8%8AHTTPS/"/>
     <id>https://19990914.xyz/2020/03/31/%E7%BB%99%E5%8D%9A%E5%AE%A2%E5%8A%A0%E4%B8%8AHTTPS/</id>
     <published>2020-03-31T06:39:17.000Z</published>
-    <updated>2021-11-20T17:17:20.359Z</updated>
+    <updated>2021-12-09T11:05:33.186Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;Trojan可以让自己的博客加上&lt;strong&gt;Https&lt;/strong&gt;访问。&lt;/p&gt;</summary>
     
     
+    
+    <category term="技术向" scheme="https://19990914.xyz/categories/%E6%8A%80%E6%9C%AF%E5%90%91/"/>
     
     
     <category term="Https" scheme="https://19990914.xyz/tags/Https/"/>
@@ -247,14 +257,14 @@
     <link href="https://19990914.xyz/2020/03/18/%E5%9C%A8Linux%E4%B8%8B%E4%BF%AE%E6%94%B9Swap%E5%88%86%E5%8C%BA%E5%A4%A7%E5%B0%8F/"/>
     <id>https://19990914.xyz/2020/03/18/%E5%9C%A8Linux%E4%B8%8B%E4%BF%AE%E6%94%B9Swap%E5%88%86%E5%8C%BA%E5%A4%A7%E5%B0%8F/</id>
     <published>2020-03-18T03:46:55.000Z</published>
-    <updated>2021-11-20T17:17:20.358Z</updated>
+    <updated>2021-12-09T11:06:21.496Z</updated>
     
     
     <summary type="html">&lt;p&gt;今天无意间看到主机的swap的大小只有131M，而且占用也快满了，想要修改swap分区大小，改为两倍系统物理内存的大小（1024M），以满足日常使用的需求。&lt;/p&gt;</summary>
     
     
     
-    <category term="Linux" scheme="https://19990914.xyz/categories/Linux/"/>
+    <category term="技术向" scheme="https://19990914.xyz/categories/%E6%8A%80%E6%9C%AF%E5%90%91/"/>
     
     
     <category term="Linux" scheme="https://19990914.xyz/tags/Linux/"/>
