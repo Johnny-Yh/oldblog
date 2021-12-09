@@ -1,5 +1,5 @@
 ---
-title: WSL配合Nginx自建证书
+title: WSL配合Nginx自建CA证书
 date: 2021-12-09 19:00:56
 categories: 技术向
 tags: Https
