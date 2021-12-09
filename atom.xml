@@ -6,7 +6,7 @@
   <link href="https://19990914.xyz/atom.xml" rel="self"/>
   
   <link href="https://19990914.xyz/"/>
-  <updated>2021-12-09T11:07:45.654Z</updated>
+  <updated>2021-12-09T11:11:33.185Z</updated>
   <id>https://19990914.xyz/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>WSL配合Nginx自建证书</title>
-    <link href="https://19990914.xyz/2021/12/09/WSL%E9%85%8D%E5%90%88Nginx%E8%87%AA%E5%BB%BA%E8%AF%81%E4%B9%A6/"/>
-    <id>https://19990914.xyz/2021/12/09/WSL%E9%85%8D%E5%90%88Nginx%E8%87%AA%E5%BB%BA%E8%AF%81%E4%B9%A6/</id>
+    <title>WSL配合Nginx自建CA证书</title>
+    <link href="https://19990914.xyz/2021/12/09/WSL%E9%85%8D%E5%90%88Nginx%E8%87%AA%E5%BB%BACA%E8%AF%81%E4%B9%A6/"/>
+    <id>https://19990914.xyz/2021/12/09/WSL%E9%85%8D%E5%90%88Nginx%E8%87%AA%E5%BB%BACA%E8%AF%81%E4%B9%A6/</id>
     <published>2021-12-09T11:00:56.000Z</published>
-    <updated>2021-12-09T11:07:45.654Z</updated>
+    <updated>2021-12-09T11:11:33.185Z</updated>
     
     
     <summary type="html">&lt;p&gt;在学校的信息安全实践课上，第一个实验就是需要自建CA证书搭建HTTPS服务器，为了方便，我使用&lt;a href=&quot;https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux&quot;&gt;WSL&lt;/a&gt;(Windows Subsystem for Linux)配合Nginx和OpenSSL来自建CA证书。&lt;/p&gt;</summary>
