@@ -6,7 +6,7 @@
   <link href="https://19990914.xyz/atom.xml" rel="self"/>
   
   <link href="https://19990914.xyz/"/>
-  <updated>2021-12-09T11:11:33.185Z</updated>
+  <updated>2021-12-21T06:16:03.937Z</updated>
   <id>https://19990914.xyz/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>简易TensorFlow环境配置</title>
+    <link href="https://19990914.xyz/2021/12/21/%E7%AE%80%E6%98%93TensorFlow%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"/>
+    <id>https://19990914.xyz/2021/12/21/%E7%AE%80%E6%98%93TensorFlow%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</id>
+    <published>2021-12-21T06:15:07.000Z</published>
+    <updated>2021-12-21T06:16:03.937Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;在自然语言处理课程中，有一个实验需要跑（参考）Github上别人的&lt;a href=&quot;https://github.com/Determined22/zh-NER-TF&quot;&gt;项目&lt;/a&gt;，需要Python3.6和TensorFlow1.2的环境，我折腾了很久连环境都没有配好…后来问了一下朋友之后推荐我用&lt;a href=&quot;https://github.com/Determined22/zh-NER-TF&quot;&gt;Anaconda&lt;/a&gt;来配置，将成功配置的过程记录下来。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术向" scheme="https://19990914.xyz/categories/%E6%8A%80%E6%9C%AF%E5%90%91/"/>
+    
+    
+    <category term="TensorFlow" scheme="https://19990914.xyz/tags/TensorFlow/"/>
+    
+  </entry>
   
   <entry>
     <title>WSL配合Nginx自建CA证书</title>
@@ -40,17 +59,10 @@
     <link href="https://19990914.xyz/2021/11/24/%E8%A5%BF%E5%AE%89%E6%B8%B8%E8%AE%B0/"/>
     <id>https://19990914.xyz/2021/11/24/%E8%A5%BF%E5%AE%89%E6%B8%B8%E8%AE%B0/</id>
     <published>2021-11-24T14:55:38.000Z</published>
-    <updated>2021-12-09T11:06:16.048Z</updated>
+    <updated>2021-12-21T06:42:36.975Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;先占个坑，考完试就更！&lt;/p&gt;
-</summary>
-        
-      
+    <summary type="html">&lt;p&gt;记录在西安的旅行。&lt;/p&gt;</summary>
     
     
     
