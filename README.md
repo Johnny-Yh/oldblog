@@ -1,2 +1,2 @@
 # Blog
-My Blog https://19990914.xyz
+My Blog https://beyh.net
